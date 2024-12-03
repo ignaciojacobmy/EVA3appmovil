@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EVA3ANDROID</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="inicio_nav">Home</string>
+    <string name="logout_nav">Logout</string>
+    <string name="agregar">Add</string>
+    <string name="lista_nav">Mi Lista</string>
+
+</resources>
